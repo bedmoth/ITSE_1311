@@ -78,6 +78,8 @@ main p {
     color: #373684; 
     font-weight: bold;
 
+}
+
 /* Style rules for lessons content */
 #piano, #guitar, #violin {
      margin: 0 2%;
@@ -101,7 +103,13 @@ main p {
 #contact {
     text-align: center;
 }
+#rental h2 {
 
+}
+
+#form h2 {
+  
+}
 .tel-link {
     background-color: #373684;
         padding: 2%;
@@ -116,6 +124,7 @@ main p {
         text-decoration: none;
         font-size: 1.5em;
         display: block;
+}
  
 .email-link{
     color: #4645a8;
