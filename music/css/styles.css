@@ -165,7 +165,10 @@ th {
 tr:nth-child(odd) {
     background-color: #b7b7e1;  
 
+} 
+
 /* Style rules for footer content */
+
 footer {
     text-align: center;
     font-size: 0.65em;
